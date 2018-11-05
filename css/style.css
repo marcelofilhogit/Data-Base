@@ -1,0 +1,19 @@
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: #6495ED!important;
+}
+
+.active .nav-link {
+    color: #6495ED!important;
+}
+
+.card {
+    background: #A9A9A9;
+}
+
+.card:hover {
+    opacity: 0.8;
+}
